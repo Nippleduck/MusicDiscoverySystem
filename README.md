@@ -1,2 +1,2 @@
 # MusicDiscoverySystem
-System for 
+System for music discovery, reviewing and opinion sharing
